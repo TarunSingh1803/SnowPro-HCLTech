@@ -445,7 +445,7 @@ CREATE OR REPLACE TABLE audit_log (
 
 ---
 
-## 9. ER Diagram
+## 9. Schema Diagram
 
 ```
 ┌───────────────────┐
