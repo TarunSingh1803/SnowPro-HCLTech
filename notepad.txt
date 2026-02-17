@@ -244,3 +244,28 @@ Feature engineering strategies
 Snowpark ML integration
 
 Debugging Snowflake implementation during the hackathon.
+
+
+
+
+
+
+
+
+
+
+
+#analytics part - 
+🔎 Step 1 — Confirm the Grain of Each KPI
+
+Before writing SQL, define what each KPI measures.
+
+REQ	Grain
+REQ1	Per Agent
+REQ2	Per State
+REQ3	Portfolio Level
+REQ4	City vs State
+REQ5	City within State
+REQ6	Customer Level
+REQ7	Customer Timeline
+REQ8	Dataset Comparison
