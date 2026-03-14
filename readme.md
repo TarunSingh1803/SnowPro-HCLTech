@@ -10,7 +10,7 @@ I am preparing for a **Snowflake Hackathon (HCL Tech selection round)** where I 
   - Data transformation and modeling
   - Feature engineering
   - Use of **Snowflake-native capabilities**
-  - Basic **AI/ML using Snowpark (in-database ML)**
+  - Basic Understanding of  **AI/ML using Snowpark (in-database ML)**
 
 The **first screening** requires presenting an **architecture and execution plan before coding**.
 
